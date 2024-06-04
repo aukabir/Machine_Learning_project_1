@@ -1,6 +1,6 @@
 # Machine_Learning_project_1
 
-Author: Ahammad Kabir
+Author: A.U.kabir
 
 Date: 4/8/2019
 
